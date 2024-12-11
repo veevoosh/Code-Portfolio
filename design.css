@@ -337,3 +337,9 @@ footer {
     margin-left: 690px;
     overflow: hidden;
 }
+
+/* Download Links Design */
+
+.download-links {
+    text-decoration: none;
+}
