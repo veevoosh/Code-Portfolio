@@ -1,0 +1,339 @@
+/* Navigation Bar Design */
+
+.nav-logo-image{
+    float: left;
+    width: 20%;
+    height: 10%;
+    margin-left: 20px;
+    overflow: hidden;
+}
+
+.topnav {
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color: #cb6363;
+    text-align: center;
+    padding: 14px 10px;
+    text-decoration: none;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.topnav a:hover {
+    color: #833535;
+    background-color: aquamarine;
+    
+}
+
+.topnav a.active {
+    color: #833535;
+}
+
+.topnav-right {
+    float: right;
+}
+
+/* Scrollbar Design */
+
+/* Width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: white; 
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #cb6363; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: aquamarine; 
+}
+
+/* Background Design */
+
+.body-bg {
+    background-color: white;
+}
+
+/* Introduction Text Design */
+
+.intro-header {
+    color: #cb6363;
+}
+
+.intro-text {
+    position: relative;
+    text-align: justify;
+    margin-left: 280px;
+    margin-right: 600px;
+    color: #833535;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.intro-text-bg {
+    background-color: aquamarine;
+    padding: 2%;
+}
+
+.intro-image {
+    position: relative;
+    width: 50%;
+    height: 10%;
+    margin-top: -204px;
+    margin-left: 690px;
+    overflow: hidden;
+}
+
+/* Code Text Design */
+
+.code-header {
+    color: #cb6363;
+}
+
+.code-text {
+    position: relative;
+    text-align: justify;
+    margin-left: 600px;
+    margin-right: 280px;
+    color: #833535;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.code-text-bg {
+    background-color: aquamarine;
+    padding: 2%;
+}
+
+.code-image{
+    position: relative;
+    width: 50%;
+    height: 10%;
+    margin-top: -220px;
+    margin-left: -320px;
+    overflow: hidden;
+}
+
+/* Art Text Design */
+
+.art-header {
+    color: #cb6363;
+}
+
+.art-text {
+    position: relative;
+    text-align: justify;
+    margin-left: 280px;
+    margin-right: 600px;
+    color: #833535;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.art-text-bg {
+    background-color: aquamarine;
+    padding: 2%;
+}
+
+.art-image {
+    position: relative;
+    width: 50%;
+    height: 10%;
+    margin-top: -210px;
+    margin-left: 670px;
+    overflow: hidden;
+}
+
+/* Game Text Design */
+
+.game-header {
+    color: #cb6363;
+}
+
+.game-text {
+    position: relative;
+    text-align: justify;
+    margin-left: 600px;
+    margin-right: 280px;
+    color: #833535;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.game-text-bg {
+    background-color: aquamarine;
+    padding: 2%;
+}
+
+.game-image{
+    position: relative;
+    width: 50%;
+    height: 10%;
+    margin-top: -215px;
+    margin-left: -320px;
+    overflow: hidden;
+}
+
+/* Footer Design */
+
+hr {
+    border-color: #cb6363;
+}
+
+footer {
+    position: relative;
+    color: #cb6363;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* First Year Projects Design*/
+
+.first-year-header {
+    color: #cb6363;
+}
+
+.first-year-bg {
+    background-color: aquamarine;
+    padding: 2%;
+}
+
+.first-year-content {
+    text-decoration: none;
+    position: relative;
+    text-align: left;
+    margin-left: 300px;
+    margin-right: 850px;
+    color: #833535;
+    font-family:'Courier New', Courier, monospace;
+}
+
+/* Second Year Projects Design */
+
+.second-year-header {
+    color: #cb6363;
+}
+
+.second-year-bg {
+    background-color: aquamarine;
+    padding: 2%;
+}
+
+.second-year-content {
+    text-decoration: none;
+    position: relative;
+    text-align: left;
+    margin-top: -255px;
+    margin-left: 800px;
+    margin-right: 330px;
+    color: #833535;
+    font-family:'Courier New', Courier, monospace;
+}
+
+/* Art Projects Design*/
+
+.art-project-header {
+        color: #cb6363;
+        position: relative;
+        text-align: justify;
+        margin-left: 600px;
+        margin-right: 280px;
+        font-family:'Courier New', Courier, monospace;
+}
+
+/* About Page Design */
+
+.about-header {
+    color: #cb6363;
+}
+
+.about-text {
+    position: relative;
+    text-align: justify;
+    margin-left: 280px;
+    margin-right: 600px;
+    color: #833535;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.about-text-bg {
+    background-color: aquamarine;
+    padding: 2%;
+}
+
+.about-image {
+    position: relative;
+    width: 50%;
+    height: 10%;
+    margin-top: -204px;
+    margin-left: 690px;
+    overflow: hidden;
+}
+
+/* Education Text Design */
+
+.edu-header {
+    color: #cb6363;
+}
+
+.edu-text {
+    position: relative;
+    text-align: justify;
+    margin-left: 600px;
+    margin-right: 280px;
+    color: #833535;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.edu-text-bg {
+    background-color: aquamarine;
+    padding: 2%;
+}
+
+.edu-image{
+    position: relative;
+    width: 50%;
+    height: 10%;
+    margin-top: -205px;
+    margin-left: -320px;
+    overflow: hidden;
+}
+
+/* Contact Text Design */
+
+.contact-header {
+    color: #cb6363;
+}
+
+.contact-text {
+    position: relative;
+    text-align: justify;
+    margin-left: 280px;
+    margin-right: 600px;
+    color: #833535;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.contact-text-bg {
+    background-color: aquamarine;
+    padding: 2%;
+}
+
+.contact-image {
+    position: relative;
+    width: 50%;
+    height: 10%;
+    margin-top: -230px;
+    margin-left: 690px;
+    overflow: hidden;
+}
